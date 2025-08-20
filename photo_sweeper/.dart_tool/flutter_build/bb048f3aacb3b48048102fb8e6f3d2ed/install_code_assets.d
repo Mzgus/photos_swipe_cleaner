@@ -1,1 +1,0 @@
- C:\\Users\\itleg\\Desktop\\perso\\photos_swipe_cleaner\\photo_sweeper\\.dart_tool\\flutter_build\\bb048f3aacb3b48048102fb8e6f3d2ed\\native_assets.json: 
