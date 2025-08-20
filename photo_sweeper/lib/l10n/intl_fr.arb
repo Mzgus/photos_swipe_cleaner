@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "galleryPageTitle": "Photothèque",
+  "trashPageTitle": "Corbeille",
+  "permissionRequiredTitle": "Accès aux photos requis",
+  "permissionRequiredMessage": "Pour nettoyer votre photothèque, nous avons besoin de votre permission. Vos photos restent sur votre appareil.",
+  "openSettings": "Ouvrir les Réglages"
+}
