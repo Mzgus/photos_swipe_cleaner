@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:photo_sweeper/l10n/app_localizations.dart';
 import 'package:photo_sweeper/features/gallery/presentation/gallery_provider.dart';
 import 'package:photo_sweeper/features/gallery/presentation/widgets/month_card.dart';
 

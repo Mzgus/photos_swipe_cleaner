@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:photo_manager/photo_manager.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:photo_sweeper/l10n/app_localizations.dart';
 
 class PermissionScreen extends StatelessWidget {
   const PermissionScreen({super.key});

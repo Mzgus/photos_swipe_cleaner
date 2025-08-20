@@ -33,15 +33,15 @@
     },
     {
       "name": "build",
-      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build-3.0.2",
+      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "build_config",
-      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_config-1.2.0",
+      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_config-1.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.7"
+      "languageVersion": "3.6"
     },
     {
       "name": "build_daemon",
@@ -51,19 +51,19 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-3.0.2",
+      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_resolvers-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.7.0",
+      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner-2.6.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-9.3.0",
+      "rootUri": "file:///C:/Users/itleg/AppData/Local/Pub/Cache/hosted/pub.dev/build_runner_core-9.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
